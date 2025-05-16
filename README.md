@@ -31,5 +31,5 @@ Este projeto demonstra a implementação de rotas públicas e privadas utilizand
 
 ## Funcionalidades
 
-- **Rotas Públicas:** Acessíveis por qualquer usuário (ex: /sign-in /register, /pricing).
-- **Rotas Privadas:** Acesso restrito a usuários autenticados (ex: dashboard).
+- **Rotas Públicas:** Acessíveis por qualquer usuário (ex: '/sign-in' '/register', '/pricing').
+- **Rotas Privadas:** Acesso restrito a usuários autenticados (ex: dashboard - '/').
